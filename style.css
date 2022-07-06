@@ -1,0 +1,276 @@
+/*Used CSS language*/
+/*Body style*/
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lobster', cursive;
+
+    letter-spacing: 1px;
+}
+
+
+
+/*All section margin-top 100px style*/
+.margin {
+    margin-top: 100px;
+    padding: 0 10px;
+}
+
+.btn {
+    padding-top: 50px;
+}
+
+
+/*Header section style*/
+.header {
+    background-image: url(donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    height: 670px;
+    margin-top: -40px;
+}
+
+
+
+/*h1 tag style*/
+h1 {
+    color: rgb(255, 253, 253);
+    font-size: 42px;
+    text-align: center;
+    padding-top: 150px;
+    padding-left: 440px;
+    padding-right: 440px;
+}
+
+
+/*h2 tag style*/
+h2 {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 60px;
+}
+
+
+
+/*all p tag style*/
+p {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 480px;
+    padding-right: 480px;
+}
+
+
+
+/*link button style*/
+.link-button {
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 45%;
+    padding: 12px;
+    background: tomato;
+    border-radius: 5px;
+}
+
+
+
+/*p tag para class style*/
+.para {
+    color: black;
+    text-align: center;
+}
+
+
+
+/*Donate today and donate plan flexible container style*/
+.flexible-container {
+    display: flex;
+    justify-content: center;
+}
+
+/*Donate today amount section box, hover, taka class flexible container style*/
+.box {
+    width: 5%;
+    padding: 20px;
+    margin: 10px;
+    font-size: 20px;
+    background: rgb(250, 244, 244);
+}
+
+.hover {
+    border: 2px solid tomato;
+    background: rgb(221, 212, 218);
+}
+
+.Taka {
+    font-size: 20px;
+    margin-left: 410px;
+    margin-top: 40px;
+    padding-left: 170px;
+    padding-right: 100px;
+    border: 0px solid;
+    outline: none;
+    border-bottom: 1px solid darkslategray;
+}
+
+
+
+
+/*Our donate plan flexible container tree style*/
+.flexible-container-tree {
+    display: flex;
+    justify-content: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.flexbox-1 {
+    width: 33%;
+    background: pink;
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid rgb(119, 118, 118);
+    text-align: justify;
+}
+
+.flexbox-2 {
+    width: 33%;
+    background: rgb(174, 238, 227);
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid rgb(119, 118, 118);
+    text-align: justify;
+}
+
+.flexbox-3 {
+    width: 33%;
+    background: rgb(173, 120, 243);
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid rgb(119, 118, 118);
+    text-align: justify;
+}
+
+
+
+
+/*Distribution flexible container four style*/
+.flexible-container-four {
+    display: flex;
+    padding-left: 90px;
+
+}
+
+.box-style {
+    width: 45%;
+    padding-left: 20px;
+    text-align: justify;
+}
+
+.box-style img {
+    width: 100%;
+}
+
+strong {
+    color: black;
+    text-align: left;
+}
+
+.button-Scene {
+    background: tomato;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    outline: none;
+    border: 0px solid;
+}
+
+.flexible-container-five-2 {
+    display: flex;
+    padding-right: 90px;
+    padding-left: 90px;
+
+}
+
+.box-style-2 {
+    width: 45%;
+    padding-right: 25px;
+    text-align: justify;
+}
+
+.box-style-2 img {
+    width: 500px;
+
+}
+
+strong {
+    color: black;
+    text-align: left;
+}
+
+.button-Scene-2 {
+    background: tomato;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    outline: none;
+    border: 0px solid;
+}
+
+
+
+
+/*Email and Subscribe section*/
+
+.my-update {
+    margin-top: 110px;
+    margin-bottom: 100px;
+}
+
+.email-style {
+    padding: 15px;
+    outline: none;
+    border: 0px solid;
+    font-size: 20px;
+    color: white;
+    background: rgb(204, 192, 192);
+}
+
+.subscribe {
+    padding: 15px;
+    background: tomato;
+    text-align: center;
+}
+
+.email-bg {
+    background-color: rgb(255, 226, 212);
+    padding: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+
+
+
+/*Footer section*/
+footer {
+    background-color: rgb(3, 0, 0);
+    color: rgb(158, 10, 133);
+    height: 125px;
+    padding-top: 6px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: 27px;
+}
+
+h4 {
+    text-align: center;
+}
